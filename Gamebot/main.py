@@ -1,6 +1,6 @@
 import telebot
 import random
-bot = telebot.TeleBot("1840551118:AAHXwiqiIPMaDK89jtyy0tJPTHP3QEZbrJQ")
+bot = telebot.TeleBot("TOKEN")
 
 """<--Основная клавиатура-->"""
 mainboard = telebot.types.InlineKeyboardMarkup(row_width=2)
